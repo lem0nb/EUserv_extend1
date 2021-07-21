@@ -1,5 +1,6 @@
 # EUserv_extend Update
 使用Github Action自动续期EUserv免费IPv6 VPS脚本
+https://github.com/cokemine/EUserv_extend/
 
 ## 说明
 
